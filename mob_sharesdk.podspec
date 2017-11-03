@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name                  = 'mob_sharesdk'
   s.version               = "0.0.1"
   s.summary               = 'mob.com免费好用的SDK'
-  s.license               = 'MIT'
+  s.license               = 'LICENSE'
   s.author                = { "mob" => "mobproducts@163.com" }
 
   s.homepage              = 'http://www.mob.com'
