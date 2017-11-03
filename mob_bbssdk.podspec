@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'mob_sharesdk'
+  s.name                  = 'mob_bbssdk'
   s.version               = "0.0.1"
   s.summary               = 'mob.com免费好用的SDK'
   s.license               = 'LICENSE'
